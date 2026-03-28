@@ -1,0 +1,20 @@
+symbol,date,trade_id,violation_type,remarks
+USDCUSDT,2026-01-14,USDCUSDT_00001001,peg_break,Price $1.005697 deviates 0.57% from $1.00 peg
+USDCUSDT,2026-02-02,USDCUSDT_00001010,peg_break,Price $0.993304 deviates 0.67% from $1.00 peg
+USDCUSDT,2026-02-09,USDCUSDT_00001011,peg_break,Price $0.987836 deviates 1.22% from $1.00 peg
+USDCUSDT,2026-02-16,USDCUSDT_00001012,aml_structuring,Wallet trader_06: 7 trades with near-identical quantities (CV=0.047) within 2.9h — smurfing pattern
+USDCUSDT,2026-02-16,USDCUSDT_00001013,aml_structuring,Wallet trader_06: 7 trades with near-identical quantities (CV=0.047) within 2.9h — smurfing pattern
+USDCUSDT,2026-02-16,USDCUSDT_00001014,aml_structuring,Wallet trader_06: 7 trades with near-identical quantities (CV=0.047) within 2.9h — smurfing pattern
+USDCUSDT,2026-02-16,USDCUSDT_00001015,aml_structuring,Wallet trader_06: 7 trades with near-identical quantities (CV=0.047) within 2.9h — smurfing pattern
+USDCUSDT,2026-02-16,USDCUSDT_00001016,aml_structuring,Wallet trader_06: 7 trades with near-identical quantities (CV=0.047) within 2.9h — smurfing pattern
+USDCUSDT,2026-02-16,USDCUSDT_00001017,aml_structuring,Wallet trader_06: 7 trades with near-identical quantities (CV=0.047) within 2.9h — smurfing pattern
+USDCUSDT,2026-02-16,USDCUSDT_00001018,aml_structuring,Wallet trader_06: 7 trades with near-identical quantities (CV=0.047) within 2.9h — smurfing pattern
+USDCUSDT,2026-01-21,USDCUSDT_00001002,round_trip_wash,Wallets trader_02 & trader_03 trade 130.59 USDC at exact peg ($1.000000) under manager mgr_01 — coordinated round-trip wash
+USDCUSDT,2026-01-21,USDCUSDT_00001003,round_trip_wash,Wallets trader_02 & trader_03 trade 123.73 USDC at exact peg ($1.000000) under manager mgr_01 — coordinated round-trip wash
+USDCUSDT,2026-01-21,USDCUSDT_00001004,round_trip_wash,Wallets trader_02 & trader_03 trade 226.33 USDC at exact peg ($1.000000) under manager mgr_01 — coordinated round-trip wash
+USDCUSDT,2026-01-21,USDCUSDT_00001005,round_trip_wash,Wallets trader_02 & trader_03 trade 229.58 USDC at exact peg ($1.000000) under manager mgr_01 — coordinated round-trip wash
+USDCUSDT,2026-01-21,USDCUSDT_00001006,round_trip_wash,Wallets trader_02 & trader_03 trade 107.94 USDC at exact peg ($1.000000) under manager mgr_01 — coordinated round-trip wash
+USDCUSDT,2026-01-21,USDCUSDT_00001007,round_trip_wash,Wallets trader_02 & trader_03 trade 100.53 USDC at exact peg ($1.000000) under manager mgr_01 — coordinated round-trip wash
+USDCUSDT,2026-01-21,USDCUSDT_00001008,round_trip_wash,Wallets trader_02 & trader_03 trade 315.46 USDC at exact peg ($1.000000) under manager mgr_01 — coordinated round-trip wash
+USDCUSDT,2026-01-21,USDCUSDT_00001009,round_trip_wash,Wallets trader_02 & trader_03 trade 311.64 USDC at exact peg ($1.000000) under manager mgr_01 — coordinated round-trip wash
+USDCUSDT,2026-02-23,USDCUSDT_00001019,manager_consolidation,Manager mgr_02 directly executes large 1052.28 USDC trade — consolidation from coordinated wallets
