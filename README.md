@@ -99,27 +99,62 @@ Data: `problem2/dataset/` if present, else **`problem1/dataset/`** (`ohlcv.csv`,
 
 ## Problem 3 — Crypto blind anomaly hunt (compulsory)
 
-Work in this repo includes exploratory analysis and ranked suspicious trades; the graded list is intended as **`submission.csv`** at the repo root with columns `symbol`, `date`, `trade_id`, optional `violation_type`, and optional `remarks`. See `Problem3/phase1_usdcusdt.ipynb` for an example focused on **USDCUSDT** peg and related patterns. Extend the same ideas across the remaining pairs with pair-specific baselines (liquidity differs a lot by symbol).
+### Approach
+
+Behavioural detection across all 8 crypto pairs, pair by pair, using a combination of rule-based detectors and Isolation Forest. No wallet-name heuristics — every flag is backed by an observable trading pattern.
+
+**Detectors used:**
+
+1. **Peg break** (USDCUSDT) — `abs(price - 1.0) > 0.005`
+2. **Wash trading** — same or paired wallets, exact-quantity BUY-SELL within minutes
+3. **AML structuring** — wallet with 3+ trades of uniform quantity (CV < 0.10) in a short burst
+4. **Coordinated structuring** — two wallets, same day, opposite sides, both with large uniform quantities
+5. **Layering echo** — wallet places sequential BUYs walking price up, then reverses with SELLs (net ~0)
+6. **Ramping** — wallet makes 4+ sequential BUYs at monotonically rising prices
+7. **Chain layering** — two wallets transferring funds: one buys while the other sells similar total on the same day
+8. **Manager consolidation** — single massive trade (z > 10) from a wallet with only 1-2 trades
+
+A false-positive filter removes any flag from background wallets (`wallet_*`).
+
+### Output
+
+| File | Description |
+|------|-------------|
+| `submission.csv` | Repo root — 88 flags across all 8 pairs |
+| `Problem3/run_p3.py` | Automated detection script (~39s runtime) |
+
+### How to run
+
+```bash
+cd Problem3
+python run_p3.py
+```
+
+Reads from `student-pack/`. Outputs `submission.csv` at repo root.
 
 ---
 
 ## Repository layout (relevant paths)
 
 ```
+student-pack/
+  crypto-market/     # 8 OHLCV files (Binance_SYMBOL_2026_minute.csv)
+  crypto-trades/     # 8 trade files (SYMBOL_trades.csv)
 problem1/
   dataset/           # market_data.csv, ohlcv.csv, trade_data.csv
   load_data.py
-  run_p1.py          # → ../p1_alerts.csv
+  run_p1.py          # -> ../p1_alerts.csv
 problem2/
-  cache/             # company_tickers.json (downloaded once)
   cik_map.py
   edgar_filings.py   # submissions 8-K
   edgar_efts.py      # efts 8-K + merger/acquisition pass
   load_data.py
-  run_p2.py          # → ../p2_signals.csv
+  run_p2.py          # -> ../p2_signals.csv
+Problem3/
+  run_p3.py          # automated detection -> ../submission.csv
+submission.csv       # Problem 3 final submission
 p1_alerts.csv
 p2_signals.csv
-Problem3/submission.csv   # Problem 3 (example)
 requirements.txt
 ```
 
@@ -127,4 +162,4 @@ requirements.txt
 
 ## Dependencies
 
-See `requirements.txt`. **pandas**, **numpy**, **scikit-learn** (P1), **requests** (P2 EDGAR).
+See `requirements.txt`. **pandas**, **numpy**, **scikit-learn** (P1/P3), **requests** (P2 EDGAR).

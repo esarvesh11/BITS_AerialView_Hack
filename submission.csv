@@ -3,11 +3,11 @@ USDCUSDT,2026-01-14,USDCUSDT_00001001,peg_break,Price $1.005697 deviates 0.57% f
 USDCUSDT,2026-02-02,USDCUSDT_00001010,peg_break,Price $0.993304 deviates 0.67% from $1.00 peg
 USDCUSDT,2026-02-09,USDCUSDT_00001011,peg_break,Price $0.987836 deviates 1.22% from $1.00 peg
 USDCUSDT,2026-01-21,USDCUSDT_00001004,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
+USDCUSDT,2026-01-21,USDCUSDT_00001009,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
+USDCUSDT,2026-01-21,USDCUSDT_00001006,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
+USDCUSDT,2026-01-21,USDCUSDT_00001003,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
 USDCUSDT,2026-01-21,USDCUSDT_00001008,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
 USDCUSDT,2026-01-21,USDCUSDT_00001005,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
-USDCUSDT,2026-01-21,USDCUSDT_00001003,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
-USDCUSDT,2026-01-21,USDCUSDT_00001006,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
-USDCUSDT,2026-01-21,USDCUSDT_00001009,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
 USDCUSDT,2026-01-21,USDCUSDT_00001002,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
 DOGEUSDT,2026-02-07,DOGEUSDT_00002014,aml_structuring,"Wallet trader_03: 7 trades, CV=0.082, 2.6h — smurfing"
 DOGEUSDT,2026-02-07,DOGEUSDT_00002015,aml_structuring,"Wallet trader_03: 7 trades, CV=0.082, 2.6h — smurfing"
@@ -80,8 +80,6 @@ XRPUSDT,2026-02-06,XRPUSDT_00002529,ramping,trader_10: 4 sequential BUYs at risi
 XRPUSDT,2026-02-06,XRPUSDT_00002530,ramping,trader_10: 4 sequential BUYs at rising prices (+0.47%) within 0.8h — ramping
 XRPUSDT,2026-02-06,XRPUSDT_00002531,ramping,trader_10: 4 sequential BUYs at rising prices (+0.47%) within 0.8h — ramping
 XRPUSDT,2026-02-06,XRPUSDT_00002532,ramping,trader_10: 4 sequential BUYs at rising prices (+0.47%) within 0.8h — ramping
-LTCUSDT,2026-01-18,LTCUSDT_00000072,wash_trading,wallet_LTC0011 BUY then SELL exact quantity within 0.0h — wash trade
-LTCUSDT,2026-01-18,LTCUSDT_00000887,wash_trading,wallet_LTC0011 BUY then SELL exact quantity within 0.0h — wash trade
 LTCUSDT,2026-02-08,LTCUSDT_00001509,wash_trading,trader_08 BUY then SELL exact quantity within 1.7h — wash trade
 LTCUSDT,2026-02-08,LTCUSDT_00001510,wash_trading,trader_08 BUY then SELL exact quantity within 1.7h — wash trade
 LTCUSDT,2026-02-08,LTCUSDT_00001511,wash_trading,trader_09 BUY then SELL exact quantity within 1.7h — wash trade

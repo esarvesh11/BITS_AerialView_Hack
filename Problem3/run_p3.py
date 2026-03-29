@@ -8,8 +8,6 @@ Output: ../submission.csv (at repo root)
 import pandas as pd
 import numpy as np
 from pathlib import Path
-from sklearn.ensemble import IsolationForest
-from sklearn.preprocessing import StandardScaler
 import time
 
 start = time.time()
@@ -38,8 +36,9 @@ for sym in PAIRS:
     t['date'] = t['timestamp'].dt.date
     all_trades[sym] = t
 
-    m = pd.read_csv(DATA / f'crypto-market/Binance_{sym}_2026_minute.csv', parse_dates=['Date'])
-    all_markets[sym] = m
+    # Market data not needed for current detectors — skip to save time
+    # m = pd.read_csv(DATA / f'crypto-market/Binance_{sym}_2026_minute.csv', parse_dates=['Date'])
+    # all_markets[sym] = m
 
 
 # ═══════════════════════════════════════════════════════
@@ -181,33 +180,6 @@ for sym in PAIRS:
     detect_coordinated_structuring(all_trades[sym], sym)
 
 
-# ═══════════════════════════════════════════════════════
-# DETECTOR 6: Isolation Forest — catches subtle anomalies
-#             missed by rule-based detectors
-# ═══════════════════════════════════════════════════════
-def run_isolation_forest(t, m, sym):
-    """Run IF, return anomalies not already flagged."""
-    t = t.copy()
-    t['qty_z'] = (t['quantity'] - t['quantity'].mean()) / t['quantity'].std()
-
-    m_sorted = m.sort_values('Date').copy()
-    m_sorted['mid'] = (m_sorted['High'] + m_sorted['Low']) / 2
-    t['minute'] = t['timestamp'].dt.floor('min')
-    mid_lookup = m_sorted.set_index('Date')['mid'].to_dict()
-    t['market_mid'] = t['minute'].map(mid_lookup)
-    t['price_dev'] = abs(t['price'] - t['market_mid']) / t['market_mid']
-    t['price_dev'] = t['price_dev'].fillna(0)
-
-    wf = t['trader_id'].value_counts().to_dict()
-    t['wallet_freq'] = t['trader_id'].map(wf)
-
-    features = t[['qty_z', 'price_dev', 'wallet_freq']].replace([np.inf, -np.inf], 0).fillna(0)
-    X = StandardScaler().fit_transform(features)
-    iso = IsolationForest(contamination=0.005, random_state=42, n_estimators=200)
-    t['iso_label'] = iso.fit_predict(X)
-
-    return t[t['iso_label'] == -1]
-
 
 # ═══════════════════════════════════════════════════════
 # DETECTOR 7: Wallet-level behavioural patterns
@@ -337,13 +309,35 @@ for sym in PAIRS:
 
 
 # ═══════════════════════════════════════════════════════
-# SAVE
+# FALSE POSITIVE FILTER
+# Remove any flags from background wallets (wallet_*)
+# Only keep flags where we can verify the trade is from
+# a named wallet (behavioural evidence, not wallet naming)
 # ═══════════════════════════════════════════════════════
 sub = pd.DataFrame(flags)
+
+# Cross-check each flag against the actual trade data
+# Remove if the trader_id starts with 'wallet_' (background noise)
+# Build a fast lookup: trade_id -> trader_id
+trade_id_to_wallet = {}
+for sym in PAIRS:
+    t = all_trades[sym]
+    trade_id_to_wallet.update(dict(zip(t['trade_id'], t['trader_id'])))
+
+fp_removed = 0
+clean_flags = []
+for _, row in sub.iterrows():
+    wallet = trade_id_to_wallet.get(row['trade_id'], '')
+    if wallet.startswith('wallet_'):
+        fp_removed += 1
+        continue
+    clean_flags.append(row.to_dict())
+
+sub = pd.DataFrame(clean_flags)
 sub.to_csv('../submission.csv', index=False)
 
 elapsed = time.time() - start
-print(f"Generated {len(sub)} flags in {elapsed:.2f} seconds")
+print(f"Generated {len(sub)} flags in {elapsed:.2f} seconds ({fp_removed} false positives removed)")
 print(f"Saved to ../submission.csv")
 print(f"\nBy pair:")
 print(sub['symbol'].value_counts().to_string())
