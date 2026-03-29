@@ -1,0 +1,89 @@
+symbol,date,trade_id,violation_type,remarks
+USDCUSDT,2026-01-14,USDCUSDT_00001001,peg_break,Price $1.005697 deviates 0.57% from $1.00 peg
+USDCUSDT,2026-02-02,USDCUSDT_00001010,peg_break,Price $0.993304 deviates 0.67% from $1.00 peg
+USDCUSDT,2026-02-09,USDCUSDT_00001011,peg_break,Price $0.987836 deviates 1.22% from $1.00 peg
+USDCUSDT,2026-01-21,USDCUSDT_00001004,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
+USDCUSDT,2026-01-21,USDCUSDT_00001009,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
+USDCUSDT,2026-01-21,USDCUSDT_00001006,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
+USDCUSDT,2026-01-21,USDCUSDT_00001003,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
+USDCUSDT,2026-01-21,USDCUSDT_00001008,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
+USDCUSDT,2026-01-21,USDCUSDT_00001005,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
+USDCUSDT,2026-01-21,USDCUSDT_00001002,wash_volume_at_peg,BUY-SELL pair with matched qty within 30min — wash_volume_at_peg
+DOGEUSDT,2026-02-07,DOGEUSDT_00002014,aml_structuring,"Wallet trader_03: 7 trades, CV=0.082, 2.6h — smurfing"
+DOGEUSDT,2026-02-07,DOGEUSDT_00002015,aml_structuring,"Wallet trader_03: 7 trades, CV=0.082, 2.6h — smurfing"
+DOGEUSDT,2026-02-07,DOGEUSDT_00002016,aml_structuring,"Wallet trader_03: 7 trades, CV=0.082, 2.6h — smurfing"
+DOGEUSDT,2026-02-07,DOGEUSDT_00002017,aml_structuring,"Wallet trader_03: 7 trades, CV=0.082, 2.6h — smurfing"
+DOGEUSDT,2026-02-07,DOGEUSDT_00002018,aml_structuring,"Wallet trader_03: 7 trades, CV=0.082, 2.6h — smurfing"
+DOGEUSDT,2026-02-07,DOGEUSDT_00002019,aml_structuring,"Wallet trader_03: 7 trades, CV=0.082, 2.6h — smurfing"
+DOGEUSDT,2026-02-07,DOGEUSDT_00002020,aml_structuring,"Wallet trader_03: 7 trades, CV=0.082, 2.6h — smurfing"
+DOGEUSDT,2026-02-14,DOGEUSDT_00002021,aml_structuring,"Wallet trader_06: 3 trades, CV=0.056, 3.9h — smurfing"
+DOGEUSDT,2026-02-14,DOGEUSDT_00002023,aml_structuring,"Wallet trader_06: 3 trades, CV=0.056, 3.9h — smurfing"
+DOGEUSDT,2026-02-14,DOGEUSDT_00002025,aml_structuring,"Wallet trader_06: 3 trades, CV=0.056, 3.9h — smurfing"
+BATUSDT,2026-01-21,BATUSDT_00000503,aml_structuring,"Wallet trader_08: 7 trades, CV=0.047, 4.5h — smurfing"
+BATUSDT,2026-01-21,BATUSDT_00000504,aml_structuring,"Wallet trader_08: 7 trades, CV=0.047, 4.5h — smurfing"
+BATUSDT,2026-01-21,BATUSDT_00000505,aml_structuring,"Wallet trader_08: 7 trades, CV=0.047, 4.5h — smurfing"
+BATUSDT,2026-01-21,BATUSDT_00000506,aml_structuring,"Wallet trader_08: 7 trades, CV=0.047, 4.5h — smurfing"
+BATUSDT,2026-01-21,BATUSDT_00000507,aml_structuring,"Wallet trader_08: 7 trades, CV=0.047, 4.5h — smurfing"
+BATUSDT,2026-01-21,BATUSDT_00000508,aml_structuring,"Wallet trader_08: 7 trades, CV=0.047, 4.5h — smurfing"
+BATUSDT,2026-01-21,BATUSDT_00000509,aml_structuring,"Wallet trader_08: 7 trades, CV=0.047, 4.5h — smurfing"
+USDCUSDT,2026-02-16,USDCUSDT_00001012,aml_structuring,"Wallet trader_06: 7 trades, CV=0.047, 2.9h — smurfing"
+USDCUSDT,2026-02-16,USDCUSDT_00001013,aml_structuring,"Wallet trader_06: 7 trades, CV=0.047, 2.9h — smurfing"
+USDCUSDT,2026-02-16,USDCUSDT_00001014,aml_structuring,"Wallet trader_06: 7 trades, CV=0.047, 2.9h — smurfing"
+USDCUSDT,2026-02-16,USDCUSDT_00001015,aml_structuring,"Wallet trader_06: 7 trades, CV=0.047, 2.9h — smurfing"
+USDCUSDT,2026-02-16,USDCUSDT_00001016,aml_structuring,"Wallet trader_06: 7 trades, CV=0.047, 2.9h — smurfing"
+USDCUSDT,2026-02-16,USDCUSDT_00001017,aml_structuring,"Wallet trader_06: 7 trades, CV=0.047, 2.9h — smurfing"
+USDCUSDT,2026-02-16,USDCUSDT_00001018,aml_structuring,"Wallet trader_06: 7 trades, CV=0.047, 2.9h — smurfing"
+XRPUSDT,2026-01-30,XRPUSDT_00002519,coordinated_structuring,trader_09 BUY + trader_10 SELL on same day — organised smurfing network
+XRPUSDT,2026-01-30,XRPUSDT_00002521,coordinated_structuring,trader_09 BUY + trader_10 SELL on same day — organised smurfing network
+XRPUSDT,2026-01-30,XRPUSDT_00002523,coordinated_structuring,trader_09 BUY + trader_10 SELL on same day — organised smurfing network
+XRPUSDT,2026-01-30,XRPUSDT_00002520,coordinated_structuring,trader_09 BUY + trader_10 SELL on same day — organised smurfing network
+XRPUSDT,2026-01-30,XRPUSDT_00002522,coordinated_structuring,trader_09 BUY + trader_10 SELL on same day — organised smurfing network
+XRPUSDT,2026-01-30,XRPUSDT_00002524,coordinated_structuring,trader_09 BUY + trader_10 SELL on same day — organised smurfing network
+DOGEUSDT,2026-02-14,DOGEUSDT_00002022,coordinated_structuring,trader_06 BUY + trader_09 SELL on same day — organised smurfing network
+DOGEUSDT,2026-02-14,DOGEUSDT_00002024,coordinated_structuring,trader_06 BUY + trader_09 SELL on same day — organised smurfing network
+DOGEUSDT,2026-02-14,DOGEUSDT_00002026,coordinated_structuring,trader_06 BUY + trader_09 SELL on same day — organised smurfing network
+USDCUSDT,2026-01-21,USDCUSDT_00001007,coordinated_structuring,trader_02 BUY + trader_03 SELL on same day — organised smurfing network
+BTCUSDT,2026-01-29,BTCUSDT_00005016,layering_echo,"trader_01: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+BTCUSDT,2026-01-29,BTCUSDT_00005017,layering_echo,"trader_01: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+BTCUSDT,2026-01-29,BTCUSDT_00005018,layering_echo,"trader_01: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+BTCUSDT,2026-01-29,BTCUSDT_00005019,layering_echo,"trader_01: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+BTCUSDT,2026-01-29,BTCUSDT_00005020,layering_echo,"trader_01: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+BTCUSDT,2026-01-29,BTCUSDT_00005021,layering_echo,"trader_01: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+BTCUSDT,2026-01-29,BTCUSDT_00005022,layering_echo,"trader_01: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+BTCUSDT,2026-01-29,BTCUSDT_00005023,layering_echo,"trader_01: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+BTCUSDT,2026-01-29,BTCUSDT_00005024,layering_echo,"trader_01: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+BTCUSDT,2026-01-29,BTCUSDT_00005025,layering_echo,"trader_01: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+BTCUSDT,2026-02-12,BTCUSDT_00005038,ramping,trader_04: 7 sequential BUYs at rising prices (+0.29%) within 2.6h — ramping
+BTCUSDT,2026-02-12,BTCUSDT_00005039,ramping,trader_04: 7 sequential BUYs at rising prices (+0.29%) within 2.6h — ramping
+BTCUSDT,2026-02-12,BTCUSDT_00005040,ramping,trader_04: 7 sequential BUYs at rising prices (+0.29%) within 2.6h — ramping
+BTCUSDT,2026-02-12,BTCUSDT_00005041,ramping,trader_04: 7 sequential BUYs at rising prices (+0.29%) within 2.6h — ramping
+BTCUSDT,2026-02-12,BTCUSDT_00005042,ramping,trader_04: 7 sequential BUYs at rising prices (+0.29%) within 2.6h — ramping
+BTCUSDT,2026-02-12,BTCUSDT_00005043,ramping,trader_04: 7 sequential BUYs at rising prices (+0.29%) within 2.6h — ramping
+BTCUSDT,2026-02-12,BTCUSDT_00005044,ramping,trader_04: 7 sequential BUYs at rising prices (+0.29%) within 2.6h — ramping
+ETHUSDT,2026-02-10,ETHUSDT_00004021,wash_trading,trader_04 BUY then SELL exact quantity within 1.5h — wash trade
+ETHUSDT,2026-02-10,ETHUSDT_00004022,wash_trading,trader_04 BUY then SELL exact quantity within 1.5h — wash trade
+ETHUSDT,2026-02-10,ETHUSDT_00004023,wash_trading,trader_05 BUY then SELL exact quantity within 1.5h — wash trade
+ETHUSDT,2026-02-10,ETHUSDT_00004024,wash_trading,trader_05 BUY then SELL exact quantity within 1.5h — wash trade
+SOLUSDT,2026-02-18,SOLUSDT_00002520,layering_echo,"trader_08: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+SOLUSDT,2026-02-18,SOLUSDT_00002521,layering_echo,"trader_08: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+SOLUSDT,2026-02-18,SOLUSDT_00002522,layering_echo,"trader_08: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+SOLUSDT,2026-02-18,SOLUSDT_00002523,layering_echo,"trader_08: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+SOLUSDT,2026-02-18,SOLUSDT_00002524,layering_echo,"trader_08: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+SOLUSDT,2026-02-18,SOLUSDT_00002525,layering_echo,"trader_08: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+SOLUSDT,2026-02-18,SOLUSDT_00002526,layering_echo,"trader_08: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+SOLUSDT,2026-02-18,SOLUSDT_00002527,layering_echo,"trader_08: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+SOLUSDT,2026-02-18,SOLUSDT_00002528,layering_echo,"trader_08: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+SOLUSDT,2026-02-18,SOLUSDT_00002529,layering_echo,"trader_08: BUYs walking price up then SELLs reversing, net ~0 within 2.8h — layering/spoofing"
+XRPUSDT,2026-01-10,XRPUSDT_00002502,wash_trading,trader_10 BUY then SELL exact quantity within 1.9h — wash trade
+XRPUSDT,2026-01-10,XRPUSDT_00002503,wash_trading,trader_10 BUY then SELL exact quantity within 1.9h — wash trade
+XRPUSDT,2026-02-06,XRPUSDT_00002529,ramping,trader_10: 4 sequential BUYs at rising prices (+0.47%) within 0.8h — ramping
+XRPUSDT,2026-02-06,XRPUSDT_00002530,ramping,trader_10: 4 sequential BUYs at rising prices (+0.47%) within 0.8h — ramping
+XRPUSDT,2026-02-06,XRPUSDT_00002531,ramping,trader_10: 4 sequential BUYs at rising prices (+0.47%) within 0.8h — ramping
+XRPUSDT,2026-02-06,XRPUSDT_00002532,ramping,trader_10: 4 sequential BUYs at rising prices (+0.47%) within 0.8h — ramping
+LTCUSDT,2026-02-08,LTCUSDT_00001509,wash_trading,trader_08 BUY then SELL exact quantity within 1.7h — wash trade
+LTCUSDT,2026-02-08,LTCUSDT_00001510,wash_trading,trader_08 BUY then SELL exact quantity within 1.7h — wash trade
+LTCUSDT,2026-02-08,LTCUSDT_00001511,wash_trading,trader_09 BUY then SELL exact quantity within 1.7h — wash trade
+LTCUSDT,2026-02-08,LTCUSDT_00001512,wash_trading,trader_09 BUY then SELL exact quantity within 1.7h — wash trade
+XRPUSDT,2026-02-20,XRPUSDT_00002535,manager_consolidation,"mgr_04: massive trade (1083.03, z=46.0) from wallet with only 1 trade(s) — consolidation"
+DOGEUSDT,2026-01-11,DOGEUSDT_00002001,manager_consolidation,"trader_01: massive trade (115.87, z=10.8) from wallet with only 1 trade(s) — consolidation"
+USDCUSDT,2026-02-23,USDCUSDT_00001019,manager_consolidation,"mgr_02: massive trade (1052.28, z=26.2) from wallet with only 1 trade(s) — consolidation"

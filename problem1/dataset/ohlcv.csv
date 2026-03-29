@@ -1,0 +1,533 @@
+sec_id,ticker,name,sector,industry,trade_date,open,high,low,close,volume
+4409,AZN,Astrazeneca plc,,,2026-01-26,93.1500,94.5800,93.1000,94.2300,6268630
+4409,AZN,Astrazeneca plc,,,2026-01-27,94.6500,96.1800,94.6600,95.6000,7052945
+4409,AZN,Astrazeneca plc,,,2026-01-28,93.2200,93.8350,92.9000,93.2200,8289397
+4409,AZN,Astrazeneca plc,,,2026-01-29,93.3500,93.5300,92.5700,92.5900,6680510
+4409,AZN,Astrazeneca plc,,,2026-01-30,93.0300,93.5100,92.4600,92.7700,5555341
+4409,AZN,Astrazeneca plc,,,2026-02-02,190.0000,192.7800,186.1800,188.3400,3228984
+4409,AZN,Astrazeneca plc,,,2026-02-03,187.6100,190.7200,183.6300,184.5100,2660243
+4409,AZN,Astrazeneca plc,,,2026-02-04,189.2600,190.7000,186.3200,187.5200,3889621
+4409,AZN,Astrazeneca plc,,,2026-02-05,187.0500,190.6700,186.5800,187.1900,3381098
+4409,AZN,Astrazeneca plc,,,2026-02-06,190.4600,193.9700,188.5100,193.1000,3189890
+4409,AZN,Astrazeneca plc,,,2026-02-09,191.8400,191.8800,187.0600,188.2500,3158990
+4409,AZN,Astrazeneca plc,,,2026-02-10,194.1900,195.8800,190.6000,193.2900,2726975
+4409,AZN,Astrazeneca plc,,,2026-02-11,200.2400,204.9200,199.1900,204.3800,3484289
+4409,AZN,Astrazeneca plc,,,2026-02-12,202.4500,205.8600,202.1000,204.5300,2724240
+4409,AZN,Astrazeneca plc,,,2026-02-13,206.0000,206.7100,204.1500,205.5500,2504979
+4409,AZN,Astrazeneca plc,,,2026-02-17,210.1400,211.2500,207.8800,209.4800,2290569
+4409,AZN,Astrazeneca plc,,,2026-02-18,212.3200,212.7100,207.5200,208.6700,2604596
+4409,AZN,Astrazeneca plc,,,2026-02-19,208.6700,208.9500,205.7150,208.6200,2038156
+4409,AZN,Astrazeneca plc,,,2026-02-20,206.3100,207.6900,204.0500,204.2000,1593344
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-01-26,214.9700,217.9000,213.9400,215.3900,2799270
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-01-27,216.6500,218.4800,214.5700,215.5300,2626107
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-01-28,214.3200,214.3200,208.3000,210.8400,3926019
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-01-29,211.7600,213.5900,208.1400,208.9300,3241199
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-01-30,208.3000,211.9700,207.7800,208.0800,4297629
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-02,206.8100,209.1300,204.6900,207.2100,2360026
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-03,210.8700,214.1300,210.1400,213.4900,3489792
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-04,213.0400,214.0000,204.8500,208.6100,3692455
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-05,207.2700,212.2050,207.0100,209.6300,2323319
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-06,215.0000,223.7000,213.9700,223.1600,2906083
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-09,222.4800,226.1200,221.1800,225.1500,3058319
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-10,226.0800,227.4100,224.1300,224.4700,2504797
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-11,229.3400,233.4900,227.0000,230.8500,4479835
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-12,241.0000,256.5200,235.7900,244.7900,5213712
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-13,248.8300,255.7100,247.6000,250.2100,3424637
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-17,247.1900,254.5700,247.1000,252.5500,3357976
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-18,254.0300,254.2800,247.1700,249.3500,3188029
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-19,246.7700,251.6800,245.3600,251.3000,2436279
+33008,HWM,Howmet Aerospace Inc,Manufacturing,Rolling Drawing & Extruding Of Nonferrous Metals,2026-02-20,252.1300,258.7800,252.0900,258.1000,3136627
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-01-26,103.1800,104.0550,102.7500,103.2500,1350193
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-01-27,103.1500,104.3800,102.8600,103.9600,1249825
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-01-28,103.9000,104.5750,103.3800,103.5800,1087343
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-01-29,103.8900,104.7500,102.8100,103.7700,1200141
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-01-30,103.4700,103.6300,102.0200,103.2800,1865914
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-02,103.6000,104.0900,102.1500,102.4000,1611141
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-03,102.2000,104.1800,102.5500,104.0100,2183247
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-04,104.6600,105.5400,104.3500,104.7500,2097695
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-05,105.3800,105.6900,104.4600,104.8100,1668163
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-06,105.7200,106.1500,103.9700,105.0900,1871259
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-09,104.9300,104.8950,103.9900,104.2600,2889415
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-10,104.6700,106.5800,104.3600,105.7800,2576215
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-11,105.5600,106.5800,105.0100,106.0200,2392337
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-12,108.4500,110.4500,106.7300,109.3400,3045078
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-13,109.1500,111.2400,109.1500,110.9700,3061573
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-17,111.8900,112.6550,110.3800,110.5400,1436437
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-18,110.5600,110.5600,108.2600,108.3100,1848292
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-19,108.7300,110.1600,108.7650,109.8000,1528065
+33152,AEE,Ameren Corp.,Transportation Communications Electric Gas And Sanitary Service,Electric & Other Services Combined,2026-02-20,110.1600,110.3200,108.8000,110.0500,2071499
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-01-26,304.9800,306.6900,303.8700,304.0100,3689836
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-01-27,305.2400,306.9850,300.7600,303.8300,3552834
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-01-28,313.0000,318.1600,308.5000,317.6250,3888869
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-01-29,316.0700,319.2600,308.9300,318.7000,3132010
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-01-30,314.2500,317.1700,309.2700,310.8800,4405938
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-02,306.9200,318.3200,306.9200,316.8600,3773330
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-03,316.8600,321.1100,308.9650,311.2900,5546100
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-04,315.7500,323.0900,311.7250,320.4400,6275452
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-05,316.3400,327.3100,313.3950,322.1200,7399212
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-06,322.9600,327.7450,316.0000,320.4500,6775494
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-09,319.8100,323.8800,317.9850,322.9700,3163246
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-10,320.7400,326.3100,319.7500,325.1600,2642213
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-11,330.0000,337.8400,328.7400,337.0000,3909034
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-12,339.3700,343.6000,330.8300,331.3600,4483268
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-13,329.7300,337.9600,328.5000,337.1000,3443350
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-17,335.6000,340.4300,330.6300,337.5100,4547718
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-18,352.0000,355.0800,340.4300,346.3700,8474850
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-19,344.7800,353.0300,339.6700,345.3000,5122256
+33382,ADI,Analog Devices Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-20,345.3000,355.4500,345.0100,355.0300,5341748
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-01-26,90.8700,92.0500,89.0400,89.1700,382891
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-01-27,90.0400,92.5800,90.2200,91.0400,428662
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-01-28,93.6400,94.3500,89.2300,91.2300,551070
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-01-29,91.9600,93.0700,88.5200,92.2000,535620
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-01-30,89.6600,92.4900,87.4400,88.0700,650740
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-02,85.8900,90.2800,86.8800,88.8100,515391
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-03,89.3200,90.9600,81.3300,84.3700,1086975
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-04,85.1200,87.0500,82.5700,82.7600,988334
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-05,81.7500,82.5000,79.4550,81.4900,1100925
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-06,82.1300,87.6400,81.9400,86.0800,684295
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-09,85.4700,85.5400,83.7100,85.4700,719017
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-10,85.8900,90.8300,85.4700,89.0500,586653
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-11,91.7100,93.4000,89.9400,91.8200,713279
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-12,92.5000,94.5000,89.8400,90.5400,621786
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-13,91.8500,95.5200,91.9000,94.5500,1172642
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-17,92.7400,99.1100,90.4400,98.5000,1825448
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-18,77.8800,84.5000,75.3100,82.0100,5145662
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-19,80.8200,82.8800,77.5600,80.6200,1636872
+33771,ACLS,Axcelis Technologies Inc,Manufacturing,Special Industry Machinery Nec,2026-02-20,79.3000,80.8100,76.4500,80.1600,1381447
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-01-26,192.7400,194.7500,192.5300,193.8900,1581805
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-01-27,192.4200,193.1500,190.8400,191.2100,1053698
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-01-28,190.5400,190.8500,188.8000,189.1600,1379275
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-01-29,188.9700,191.0500,188.1600,189.6500,1414251
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-01-30,189.1500,191.6800,188.5100,191.3900,1782566
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-02,190.9700,192.3900,188.6500,190.9100,2530902
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-03,187.7000,191.1400,186.1400,190.7300,3030771
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-04,191.7200,194.8550,190.5650,192.6100,2962567
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-05,193.8700,196.9000,192.3850,194.1100,2261312
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-06,194.2800,196.3300,193.9900,195.8700,1689999
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-09,195.8700,196.2600,194.6900,194.7600,1541083
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-10,194.3500,202.1000,194.2300,199.3100,2559628
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-11,199.4700,202.4550,199.5200,200.3600,1831670
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-12,200.2400,202.3500,194.7800,196.1000,2261433
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-13,196.1000,197.4900,192.3500,193.4400,1913972
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-17,193.7400,197.2700,193.7700,194.9200,1392553
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-18,195.2500,196.5050,193.1900,196.4100,1033003
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-19,196.5500,198.1100,196.2900,197.9700,1848216
+34909,CTAS,Cintas Corporation,Manufacturing,"Men's & Boys' Furnishings, Work Clothing, And Allied Garments",2026-02-20,196.1500,200.1300,195.8600,200.0200,1800739
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-01-26,114.4500,115.4800,113.8600,114.8200,11728922
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-01-27,114.6700,115.9600,113.7000,114.7900,12324015
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-01-28,114.5000,115.7100,113.1400,114.2000,11380403
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-01-29,115.2700,116.3500,113.4000,115.2000,14443933
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-01-30,114.2500,116.6500,114.1800,115.7100,12396856
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-02,115.2100,116.9700,114.6000,116.2300,11774432
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-03,117.4800,118.9000,115.3900,117.7100,15368884
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-04,118.2900,119.9250,116.9300,117.4300,12408554
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-05,114.2000,116.2700,112.9200,115.7400,18706988
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-06,118.1700,122.9600,117.3600,122.6900,15249990
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-09,122.0000,125.1600,121.9800,123.7700,12888959
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-10,123.6700,124.9900,119.5100,122.1500,12121576
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-11,123.5000,124.2400,117.3600,117.3900,13771613
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-12,117.8900,119.1800,110.9500,111.1500,19353584
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-13,109.8000,111.4150,108.3900,110.8600,16667427
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-17,112.7500,114.5000,112.3000,113.7800,12314996
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-18,115.0000,117.0200,114.9700,116.2700,11679073
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-19,114.9100,115.9100,114.1800,115.5500,8087359
+34926,C,Citigroup Inc,Finance Insurance And Real Estate,National Commercial Banks,2026-02-20,114.9800,116.1300,113.8500,116.0000,12987489
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-01-26,515.7200,518.6600,512.6600,516.5400,750900
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-01-27,517.3300,521.4900,513.8500,519.1900,1047579
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-01-28,519.9400,528.4700,519.5000,525.0100,1110821
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-01-29,530.0000,537.0000,521.5400,530.0700,1493683
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-01-30,524.9300,529.9900,518.9100,528.0000,1519399
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-02,527.2500,534.7000,523.2450,532.2500,1558499
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-03,533.2600,545.3200,533.0000,545.0000,1605679
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-04,550.0000,571.4200,548.0000,567.2600,3209380
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-05,563.8300,574.7400,561.5000,565.7300,1913231
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-06,568.0000,584.0600,569.0150,583.1100,1440597
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-09,580.0000,587.2900,574.3000,585.6700,1101969
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-10,586.1100,593.7600,583.8100,593.4100,1609882
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-11,594.8000,614.3400,591.5500,612.6900,1826885
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-12,612.8700,626.2500,596.7800,598.1100,2768398
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-13,598.8600,610.6100,597.2100,602.9200,1565405
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-17,593.0500,607.0400,595.5000,600.8400,1863427
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-18,603.8100,603.0000,590.9200,593.2700,2558532
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-19,638.3700,674.1100,629.0000,662.0000,6656927
+35701,DE,Deere & Co.,Manufacturing,Farm Machinery & Equipment,2026-02-20,666.5800,666.9200,646.5800,662.4900,2991301
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-01-26,136.5600,136.9300,134.1750,134.8400,16056190
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-01-27,135.2500,136.9200,134.7100,136.8300,14577259
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-01-28,137.8300,138.0100,136.6700,137.5800,15637461
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-01-29,140.9200,142.3400,139.1100,140.5100,35760732
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-01-30,139.9200,142.2050,137.8300,141.4000,29658290
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-02,140.0500,140.3200,138.0700,138.4000,27735845
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-03,138.9700,145.0100,138.4500,143.7300,37578207
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-04,145.0000,147.8400,144.3700,147.5900,29426506
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-05,146.1800,146.7300,143.7950,146.0800,18446944
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-06,146.8300,149.5700,146.4700,149.0500,17220048
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-09,149.5000,151.5500,148.6500,151.2100,21298016
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-10,150.7000,151.7600,149.8200,151.5900,15800479
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-11,153.9700,156.9300,153.5800,155.5600,23091752
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-12,153.5000,155.2400,149.8800,149.9300,30868218
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-13,150.7500,151.6600,148.0000,148.4500,20166178
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-17,148.2000,149.1300,145.1500,146.1900,19842016
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-18,148.5000,150.9800,147.6100,150.6800,20114445
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-19,152.2500,153.3800,150.8350,150.9700,20831065
+36574,XOM,Exxon Mobil Corp.,Manufacturing,Petroleum Refining,2026-02-20,150.4900,150.7900,146.4600,147.2800,25908709
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-01-26,305.2200,305.9900,301.0000,304.4700,1513282
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-01-27,305.0000,314.0200,304.4500,312.4200,2121722
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-01-28,311.7300,317.2350,311.7000,314.6500,1393890
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-01-29,317.2400,319.8600,314.7100,319.9300,1641485
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-01-30,315.5500,322.6800,316.6200,322.2500,2588802
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-02,321.8500,335.6100,321.5000,335.3000,2604883
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-03,345.0300,355.1500,342.3000,353.4300,3995674
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-04,356.1200,365.2150,356.1200,362.5400,2531636
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-05,362.0000,366.4200,357.5200,363.9600,2339675
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-06,365.0000,370.8000,362.3500,369.2300,2197097
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-09,367.9500,369.6800,363.4500,364.6000,1484660
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-10,366.1300,368.9500,362.7500,367.9500,1479173
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-11,370.0000,374.8000,366.9300,367.1600,1849362
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-12,368.0000,380.4100,362.4250,369.4600,3682251
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-13,370.0000,378.5000,364.6300,374.7200,1847158
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-17,377.9600,381.9900,373.9900,375.3000,1166785
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-18,376.0400,383.5800,375.0150,383.0800,1510837
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-19,381.0000,384.4000,379.8200,383.1400,1199289
+36672,FDX,Fedex Corp,Transportation Communications Electric Gas And Sanitary Service,Air Courier Services,2026-02-20,381.7600,391.0400,381.0100,388.4800,1517776
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-01-26,589.8900,590.4000,575.8900,581.6600,1460853
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-01-27,580.0000,595.8000,577.0000,594.9500,1710762
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-01-28,593.0700,599.3200,583.4900,597.2700,1324569
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-01-29,615.1800,645.2100,609.2400,622.5100,3932101
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-01-30,621.0000,641.0000,616.0000,634.2200,2100205
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-02,620.0000,640.8000,619.3600,636.0000,1968986
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-03,640.0000,646.5000,619.0900,628.2600,2301053
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-04,630.8200,632.0500,596.5100,602.7600,2654959
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-05,602.7300,613.7500,595.9100,609.1800,1684740
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-06,615.5000,624.0900,611.3300,623.5800,1095857
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-09,625.2800,638.8650,625.0250,638.2900,1590652
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-10,637.4700,638.2900,626.5100,629.5600,1211750
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-11,631.2300,633.5500,621.8100,628.7000,1024700
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-12,630.7000,644.2500,630.0000,637.4300,1745794
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-13,639.0000,656.1800,639.0000,652.5800,1490915
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-17,653.0000,656.1400,642.5000,649.5800,1169642
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-18,657.1700,660.5500,647.3400,649.8100,1350438
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-19,656.5000,669.7500,655.6800,666.5100,1370464
+39269,LMT,Lockheed Martin Corp.,Manufacturing,Guided Missiles & Space Vehicles & Parts,2026-02-20,666.0500,668.0500,648.5000,658.2600,1447995
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-01-26,404.1900,407.2400,398.9300,401.0700,1207459
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-01-27,399.9800,407.6550,396.4400,406.0800,1013960
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-01-28,408.1400,410.0000,401.2700,405.0800,1249947
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-01-29,405.0800,405.5400,396.1400,403.1500,1089307
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-01-30,400.7300,403.0600,397.4900,402.5400,957775
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-02,401.8500,407.0100,398.8400,403.6800,1012832
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-03,401.7000,409.7000,401.2300,409.4700,1255839
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-04,410.0800,420.0000,408.1400,416.3000,1730654
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-05,414.8800,419.0000,412.1650,417.1500,982101
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-06,418.6600,422.2700,412.6300,422.1800,1053222
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-09,420.7500,423.2400,418.1200,422.5900,1153814
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-10,421.0300,423.5600,417.2000,419.6900,1213269
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-11,419.5500,423.7300,418.0900,421.1300,1124434
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-12,453.2500,471.1700,448.4300,453.4400,2749022
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-13,453.4300,462.8000,449.2050,461.7600,1489721
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-17,464.7600,468.1000,457.7700,457.7600,1482393
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-18,455.8100,457.4900,448.4900,451.6000,1053532
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-19,453.2700,456.1600,448.2800,453.6800,738593
+40039,MSI,Motorola Solutions Inc,Manufacturing,Radio & Tv Broadcasting & Communications Equipment,2026-02-20,454.8600,465.7700,453.0650,462.7600,1444863
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-01-26,218.2800,219.9000,217.3100,219.0800,1176709
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-01-27,218.0900,219.1600,216.9200,217.1900,1019382
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-01-28,216.0900,218.9400,215.3800,217.6000,973663
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-01-29,216.8000,219.1800,213.6500,214.7500,1884939
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-01-30,215.0000,215.0800,211.4500,215.0900,2213414
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-02,215.3700,216.3900,213.2800,215.7300,1072563
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-03,213.9500,216.4200,212.7400,213.9500,1102951
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-04,213.8600,219.7600,212.7600,218.2000,1628218
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-05,219.9000,222.3400,218.0000,218.7200,2019362
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-06,218.7200,221.4900,218.7500,219.9400,1039269
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-09,220.0000,224.2400,219.9900,224.0800,1563091
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-10,224.1800,225.6600,222.8500,223.0700,1611084
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-11,222.7500,228.0200,222.2400,225.9700,1518221
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-12,225.2600,227.2300,219.3400,220.8700,2317741
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-13,220.9700,224.4900,220.6000,223.1700,1441736
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-17,224.0800,225.7700,220.9800,221.1900,2181557
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-18,217.0900,218.2400,209.4800,216.8400,2975288
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-19,218.5200,224.6000,217.7500,221.6300,1326116
+41966,RSG,"Republic Services, Inc.",Transportation Communications Electric Gas And Sanitary Service,Refuse Systems,2026-02-20,222.0000,221.6900,218.4600,219.5000,1265026
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-01-26,108.0500,108.3400,103.6100,103.9600,6710013
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-01-27,104.3000,104.7600,103.2200,104.1000,4579105
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-01-28,104.0700,104.1800,100.8900,101.7400,4644475
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-01-29,102.2200,103.2700,101.3150,102.8400,6015394
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-01-30,102.8400,105.5100,102.3800,105.4700,6182265
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-02,104.9800,109.8900,103.9400,109.5300,10565298
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-03,109.8900,112.9600,109.5900,111.3000,8374316
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-04,112.5600,114.8250,112.2700,114.1300,9939905
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-05,114.1300,114.7700,110.3400,110.8500,6081852
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-06,111.5700,115.8200,111.8250,115.5500,7805244
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-09,115.2700,116.0700,113.7500,115.5200,4507933
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-10,115.8800,117.1700,113.1500,113.2300,4955291
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-11,112.9400,114.7700,112.3100,114.6100,6612433
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-12,115.0100,116.2500,111.8600,112.6900,5588756
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-13,113.4100,116.1300,112.6200,115.7600,6597368
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-17,117.2200,118.3800,114.2500,116.5400,6259078
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-18,115.7500,116.8300,114.9100,115.6600,5608726
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-19,115.2000,116.2500,114.6400,115.6600,3632661
+43205,TGT,Target Corp,Retail Trade,Retail-Variety Stores,2026-02-20,115.4700,118.9400,114.4800,116.6900,6286186
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-01-26,193.3100,196.8400,192.5300,196.5900,9169423
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-01-27,194.7000,198.4100,194.4300,196.6300,10748965
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-01-28,203.9900,216.5800,203.7200,216.1700,19606535
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-01-29,216.4000,222.0000,214.8200,218.9700,15737628
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-01-30,216.0600,216.4250,213.0600,215.5500,9087031
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-02,215.5100,225.2600,214.8400,225.0100,13135292
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-03,224.4500,228.8300,222.7200,225.2100,15207760
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-04,222.9800,228.2800,218.6600,222.9200,16213415
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-05,221.6500,225.8200,219.0000,223.9800,11044340
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-06,225.6300,226.7600,218.5850,221.4400,9397767
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-09,221.3500,222.1550,218.2400,218.7700,9246931
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-10,217.2300,222.0400,216.1300,220.9200,5101113
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-11,223.9400,231.3200,223.4400,226.5600,9132839
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-12,226.6800,229.4200,221.8700,223.0000,10325813
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-13,221.9300,226.8850,221.6650,226.1600,5012066
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-17,226.5300,228.2800,222.8700,225.6900,6541649
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-18,229.8800,230.0000,221.3800,223.3200,8291500
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-19,221.1500,222.0300,217.4200,218.0500,5002374
+43374,TXN,Texas Instruments Inc.,Manufacturing,Semiconductors & Related Devices,2026-02-20,216.7400,220.1700,216.5300,219.7300,5458075
+64278,CRH,CRH Plc,,,2026-01-26,123.5600,124.1500,122.3900,122.7500,3087505
+64278,CRH,CRH Plc,,,2026-01-27,123.6100,124.4700,122.9100,123.6800,2760395
+64278,CRH,CRH Plc,,,2026-01-28,122.3100,122.8000,121.4100,122.4600,3422920
+64278,CRH,CRH Plc,,,2026-01-29,123.9600,124.6000,121.3400,123.6800,5505199
+64278,CRH,CRH Plc,,,2026-01-30,122.2100,123.2400,121.6100,122.4100,4817805
+64278,CRH,CRH Plc,,,2026-02-02,122.8000,124.8900,121.7500,124.6000,3038021
+64278,CRH,CRH Plc,,,2026-02-03,125.0800,128.2100,121.0000,122.0100,6505339
+64278,CRH,CRH Plc,,,2026-02-04,122.1800,123.7100,121.1400,122.9600,5023730
+64278,CRH,CRH Plc,,,2026-02-05,121.7500,123.2600,121.2000,121.7700,3832367
+64278,CRH,CRH Plc,,,2026-02-06,123.6200,127.4500,123.3300,127.1300,3244710
+64278,CRH,CRH Plc,,,2026-02-09,126.5000,127.6000,126.1500,126.8400,3088945
+64278,CRH,CRH Plc,,,2026-02-10,126.8200,129.2800,126.0500,129.1500,4918985
+64278,CRH,CRH Plc,,,2026-02-11,129.4400,129.8500,127.2400,127.8300,3498399
+64278,CRH,CRH Plc,,,2026-02-12,126.4900,127.0600,120.6400,122.8500,6886759
+64278,CRH,CRH Plc,,,2026-02-13,122.5100,126.2600,121.7100,125.9700,4191169
+64278,CRH,CRH Plc,,,2026-02-17,122.9900,124.0350,120.3000,122.0200,6779802
+64278,CRH,CRH Plc,,,2026-02-18,123.0700,124.9200,121.6600,124.7500,5667788
+64278,CRH,CRH Plc,,,2026-02-19,122.9000,126.3000,121.6400,125.4900,6012912
+64278,CRH,CRH Plc,,,2026-02-20,125.0900,126.6000,123.5800,124.0400,4672157
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-01-26,307.0700,309.4700,298.6300,302.6700,1357644
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-01-27,302.2100,311.7000,299.0000,309.5700,1204314
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-01-28,315.6400,321.0400,300.2500,306.9400,2109297
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-01-29,305.2300,305.9000,288.3500,293.2200,1448318
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-01-30,287.0800,292.1400,276.8200,278.3900,1092149
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-02,272.7000,276.9900,265.5100,269.9900,1619476
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-03,273.5400,285.5800,270.0800,285.4100,1081579
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-04,286.0000,287.1500,246.1700,257.3000,1812613
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-05,247.0100,257.7500,234.0400,236.8800,1538698
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-06,246.7400,258.7800,242.1500,257.2000,1492070
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-09,256.6200,274.9700,253.7500,274.3500,1150756
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-10,274.8600,277.0000,261.8200,263.2600,1018886
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-11,267.7000,267.7100,236.6400,243.4200,1594173
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-12,249.9100,252.0250,233.7800,235.1200,1184125
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-13,236.0000,248.5200,234.0000,243.8700,754837
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-17,254.9500,266.2100,252.3100,262.9900,1378363
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-18,264.5000,269.2000,259.0000,265.4600,1067309
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-19,266.7100,285.4900,265.0000,281.6700,1381846
+489240,AVAV,AeroVironment Inc.,Manufacturing,Aircraft,2026-02-20,280.8300,285.0000,263.9500,264.6300,1116779
+550091,IWM,iShares Russell 2000 ETF,,,2026-01-26,265.1000,266.6900,263.4636,263.9800,32165894
+550091,IWM,iShares Russell 2000 ETF,,,2026-01-27,263.9900,264.8600,262.6600,264.7300,26975612
+550091,IWM,iShares Russell 2000 ETF,,,2026-01-28,266.0000,266.6700,262.5700,263.3000,37139541
+550091,IWM,iShares Russell 2000 ETF,,,2026-01-29,264.0900,265.0600,259.4100,263.3700,44234919
+550091,IWM,iShares Russell 2000 ETF,,,2026-01-30,260.9900,262.9800,257.9400,259.6500,59474956
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-02,258.5100,263.7700,258.3500,262.1800,42987945
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-03,263.0100,265.0500,258.5600,262.7800,54588565
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-04,264.2500,264.6500,257.1500,260.5200,48876247
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-05,258.5600,261.6200,255.0500,255.8300,48787396
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-06,259.7900,265.7200,259.5800,265.0200,43509062
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-09,264.8900,267.6700,263.3400,266.8800,29074521
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-10,267.2800,268.5200,265.8800,266.1600,24661857
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-11,268.5400,268.9600,262.1000,264.9500,42185180
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-12,267.0900,267.4600,258.3900,259.5400,47629494
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-13,260.6000,265.1700,258.5100,262.9600,45370596
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-17,262.4100,264.3500,259.0600,263.0400,33755360
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-18,263.0600,266.9050,261.8500,263.9900,36088841
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-19,262.6100,264.6400,261.0800,264.6000,31029123
+550091,IWM,iShares Russell 2000 ETF,,,2026-02-20,262.9100,267.3300,262.1400,264.6100,47267878
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-01-26,123.6100,124.7400,123.5000,124.3100,3334962
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-01-27,125.0500,125.7900,124.8900,125.4800,2493861
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-01-28,126.0200,126.0300,125.0800,125.6100,3998198
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-01-29,125.5000,125.6500,122.3800,124.9500,9336113
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-01-30,124.4200,125.0300,123.4200,123.8900,4377101
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-02,123.3500,124.8500,123.3400,124.2800,2433051
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-03,124.8600,124.8100,121.1500,122.2700,5590788
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-04,122.2800,122.2300,118.9400,120.0800,5859664
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-05,118.7000,119.6600,117.5200,118.2700,7323614
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-06,119.1600,121.5700,118.8900,121.2200,5892828
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-09,121.0200,123.1800,120.7150,122.5500,3421026
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-10,122.8800,122.9650,121.7700,121.8900,3358445
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-11,122.9900,123.1700,120.9100,121.6300,5066798
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-12,122.1400,122.3050,119.2900,119.4900,4053141
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-13,119.6600,120.0400,118.4000,119.0100,6110527
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-17,118.3600,119.9800,117.5100,119.4000,5240195
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-18,119.7000,120.8900,119.4300,120.1400,3684774
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-19,119.6300,120.3100,119.2250,119.9500,3503740
+550109,IVW,iShares S&P 500 Growth ETF,,,2026-02-20,119.5500,121.4400,119.3700,121.1200,6096768
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-01-26,107.0200,107.9900,106.8950,107.6400,3026967
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-01-27,108.2600,108.9050,108.1300,108.6600,4487805
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-01-28,109.1200,109.1100,108.2900,108.7900,3886091
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-01-29,108.6400,108.7400,105.9600,108.1800,5001707
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-01-30,107.8100,108.2500,106.8600,107.2500,5512745
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-02,106.8000,108.0900,106.7700,107.6300,3950892
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-03,108.1000,108.0900,104.8800,105.8600,8585124
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-04,105.8700,105.8500,102.9700,103.9900,7842029
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-05,102.7600,103.5800,101.7400,102.3800,8923186
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-06,103.1700,105.2500,102.9200,104.9600,4827332
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-09,104.7700,106.6400,104.5200,106.0900,4742626
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-10,106.3800,106.4600,105.4400,105.5300,7413553
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-11,106.4800,106.6500,104.6900,105.3000,5144208
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-12,105.7600,105.8700,103.2800,103.4500,9399627
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-13,103.6100,103.9400,102.5200,103.0100,10378776
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-17,102.4900,103.8750,101.7500,103.3500,7467574
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-18,103.6400,104.6750,103.4300,104.0200,4155333
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-19,103.5800,104.1700,103.2200,103.8700,6596340
+551023,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,,,2026-02-20,103.4900,105.1400,103.3500,104.8900,9107822
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-01-26,155.9000,155.5200,151.1450,153.5200,1706237
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-01-27,153.3600,159.2500,153.3800,159.1200,2017695
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-01-28,161.4300,161.4550,158.5100,160.2700,1748961
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-01-29,165.0000,168.4800,162.8700,163.0700,2875903
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-01-30,162.5800,165.8550,161.2600,163.9500,2161848
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-02,158.6100,160.3500,157.5000,158.6400,1748400
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-03,158.5700,162.9500,157.0000,162.8800,1876214
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-04,164.5800,169.4200,162.9100,168.9900,2672806
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-05,165.9400,168.0500,163.0900,164.7800,1823351
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-06,164.5600,168.4200,164.5700,166.9300,2091038
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-09,165.9100,167.3400,164.9200,165.9600,1738816
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-10,165.8500,165.8600,162.6800,164.8900,1987505
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-11,168.1300,170.5400,166.3200,169.0100,2987064
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-12,167.9300,169.4500,164.3700,167.4200,2317013
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-13,166.6200,170.2400,166.6200,169.1400,1405971
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-17,170.5000,172.7300,163.6000,168.5900,1704644
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-18,171.0500,174.1700,169.7000,174.0100,2498654
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-19,176.2700,177.0000,173.5800,174.7200,2257771
+3559296,FANG,Diamondback Energy Inc,Mining,Crude Petroleum & Natural Gas,2026-02-20,174.0900,176.5400,172.3000,176.0100,4466206
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-01-26,107.0900,107.3800,106.9800,107.1600,567140
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-01-27,107.0600,107.3200,106.7400,106.9200,751304
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-01-28,106.7600,107.1500,105.9400,106.0900,1179233
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-01-29,105.8000,105.8600,104.2600,105.0200,1020200
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-01-30,104.5500,105.0800,104.0000,104.7500,929233
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-02,104.5700,105.3150,104.3500,105.1200,884187
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-03,104.7100,105.0600,102.5500,103.4300,1010136
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-04,103.6200,105.7700,103.6350,105.4100,1306481
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-05,104.4000,104.9600,103.4650,103.6900,1094861
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-06,104.2800,105.6500,104.2200,105.5300,898250
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-09,105.1000,105.9300,104.6400,105.7400,559293
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-10,105.8600,106.8900,105.7500,106.0300,694469
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-11,106.4200,106.3900,105.1100,105.7100,759129
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-12,105.9700,106.2300,104.1800,104.5300,1085681
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-13,105.0300,106.1600,104.8200,105.5700,1489053
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-17,105.5500,106.1300,104.3900,105.2900,1273576
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-18,105.3100,106.2300,105.0400,106.1100,748607
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-19,105.9200,106.1600,105.4300,106.1600,784012
+3752951,MOAT,VanEck Morningstar Wide Moat ETF,,,2026-02-20,105.6300,106.9400,105.5000,106.2700,1228047
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-01-26,93.7700,94.6200,93.3800,93.8400,1155035
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-01-27,93.8000,93.6500,90.8400,91.7200,2438383
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-01-28,91.9900,93.0150,91.5700,92.2400,1405354
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-01-29,93.0000,93.2100,91.5550,93.0300,1187287
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-01-30,92.7300,92.6500,90.1600,92.1300,2721081
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-02,91.5400,91.8000,89.1800,89.4200,1827947
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-03,89.2000,89.5000,87.1050,88.6100,1753924
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-04,88.7700,91.4400,88.0800,90.0700,2076783
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-05,89.8800,90.0300,88.6100,88.9500,1510669
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-06,90.8300,96.4400,90.5500,95.7800,2459029
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-09,95.6700,97.6500,95.1700,97.0800,1745880
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-10,97.3000,100.2200,96.4050,99.3100,1891756
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-11,99.7200,100.6100,98.7100,100.2200,2803966
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-12,105.0000,110.9100,103.3900,106.0000,5864973
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-13,107.4900,110.8250,106.0900,109.8300,4050950
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-17,111.1200,111.1900,108.0300,108.7900,2501364
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-18,108.5900,109.1250,105.1400,105.8300,2159975
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-19,106.2700,108.4400,105.2500,108.1500,1700523
+4428506,IRM,Iron Mountain Inc.,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-20,108.1700,110.3600,107.5400,110.2900,1523543
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-01-26,327.9300,335.8400,327.0000,333.2600,29934743
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-01-27,335.3800,337.9100,333.4800,334.5500,21636278
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-01-28,336.0000,337.5300,331.9400,336.0100,27437936
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-01-29,340.5000,342.2900,326.5400,338.2500,39935829
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-01-30,334.3100,340.0000,332.2900,338.0000,36011134
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-02,336.1200,344.8300,335.6400,343.6900,32007574
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-03,347.4000,349.0000,337.4900,339.7100,36506930
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-04,342.9800,343.3100,328.5200,333.0400,70731167
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-05,312.3800,332.6900,306.4600,331.2500,88402863
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-06,327.4400,330.3800,319.9500,322.8600,56400987
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-09,321.0900,327.7000,317.2900,324.3200,39643444
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-10,321.1400,321.6400,314.6200,318.5800,39170934
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-11,318.9600,321.0500,309.6600,310.9600,45442824
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-12,312.0000,316.2400,307.2000,309.0000,47762048
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-13,307.7500,308.6300,303.7500,305.7200,38499806
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-17,300.3000,304.4300,296.2500,302.0200,39247697
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-18,301.6300,305.3800,301.2500,303.3300,28482184
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-19,301.6100,305.4700,300.0400,302.8500,25834667
+4579561,GOOGL,Alphabet Inc,Services,Services-Computer Programming Data Processing Etc.,2026-02-20,304.2400,316.5000,303.8900,314.9800,53556573
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-01-26,289.1500,289.1400,284.9200,284.9500,203928
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-01-27,286.4800,287.8000,282.3000,283.8300,187589
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-01-28,283.8400,286.8100,280.9900,286.0500,158926
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-01-29,287.9700,286.7300,282.6000,285.6400,173061
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-01-30,289.7700,288.8000,280.9000,283.5500,212371
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-02,284.5400,288.4300,284.2700,284.3400,185130
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-03,283.8600,285.0700,280.1800,284.0200,192140
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-04,284.5700,287.4600,280.0400,287.2500,220571
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-05,283.0000,298.9700,265.5600,273.6500,535370
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-06,279.7000,280.7800,276.1300,279.2900,243492
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-09,279.1600,279.3300,274.5000,279.2700,294165
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-10,279.9400,283.7900,277.8800,279.7600,187675
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-11,281.7600,281.7500,277.0900,280.6400,155518
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-12,281.0600,281.8900,276.7600,278.2000,136674
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-13,280.1600,291.9300,279.4300,291.4800,275123
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-17,292.5200,296.7900,289.3800,293.7800,189748
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-18,322.9500,345.2800,321.1900,341.7600,1045765
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-19,341.7600,343.7600,324.2800,328.5400,501701
+4605516,MSGS,Madison Square Garden Sports Corp,Services,Services-Miscellaneous Amusement & Recreation,2026-02-20,329.4900,328.8200,322.0100,325.2600,272836
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-01-26,113.3300,115.2700,113.4200,114.2300,338860
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-01-27,114.5100,115.8750,113.6700,115.3200,418189
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-01-28,115.5000,116.8800,115.2400,115.9800,397224
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-01-29,116.2500,118.5500,115.9600,118.0600,532124
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-01-30,117.0000,119.7100,117.8300,118.9200,701644
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-02,118.4300,122.4000,119.1400,122.2100,590554
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-03,122.8300,123.6100,117.7350,118.4400,723410
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-04,117.7800,118.5900,116.2400,117.4800,629782
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-05,117.1700,118.9800,115.5950,116.1600,830659
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-06,117.6900,120.4200,117.5700,119.6900,434153
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-09,119.4000,120.8600,118.7900,118.9500,462462
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-10,118.6700,120.8100,117.9300,118.7400,358257
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-11,120.0900,120.9500,114.0800,114.4200,568265
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-12,115.0000,117.1450,109.3900,112.1100,598104
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-13,112.0800,114.9450,110.5400,113.8000,627689
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-17,113.9500,116.4900,113.9600,115.7800,535464
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-18,115.6400,117.6700,115.7700,116.9300,953276
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-19,115.2000,119.8000,113.0200,113.7400,1065323
+7036662,JXN,Jackson Financial Inc,Finance Insurance And Real Estate,Life Insurance,2026-02-20,113.0100,117.1400,111.7900,115.6200,1001810
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-01-26,286.7300,291.8000,284.4400,285.2700,3597547
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-01-27,286.3900,290.2800,282.7300,288.7600,5963943
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-01-28,291.6400,293.2300,285.1700,287.9500,3282287
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-01-29,288.0000,292.3800,283.1200,287.4500,3142324
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-01-30,283.4800,288.3400,278.2300,280.6800,2759702
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-02,279.0000,282.9300,268.9000,270.8800,4044526
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-03,272.4600,273.3900,263.7100,268.4500,3584287
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-04,268.9500,268.8300,245.0200,250.4600,7672212
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-05,248.1500,253.7200,243.3800,247.0600,4001681
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-06,254.7600,263.9600,253.6300,261.4200,6306737
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-09,262.1800,272.8900,260.6900,272.1500,4914793
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-10,274.7300,275.9500,267.0100,271.1400,4603970
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-11,272.8600,277.5600,268.2550,276.8500,3863333
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-12,278.8000,285.3700,270.3650,276.1200,4893502
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-13,274.5900,294.3100,272.0000,288.4300,5461509
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-17,289.3100,307.5300,289.0000,303.0100,5275656
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-18,305.3000,310.6500,290.7200,294.0500,3794732
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-19,292.4800,298.0000,289.0100,291.6600,2550346
+7268636,CEG,Constellation Energy Corporation,Transportation Communications Electric Gas And Sanitary Service,Electric Services,2026-02-20,291.3500,297.2300,289.8800,294.8400,3134335
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-01-26,281.4000,283.2000,278.4400,278.7500,835214
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-01-27,277.7600,280.6800,276.5600,277.7000,658782
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-01-28,278.1000,280.1600,272.5200,273.8600,828701
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-01-29,275.0000,279.0450,273.7200,277.4500,1053301
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-01-30,275.6500,276.9000,273.0000,276.1900,1527132
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-02,275.6600,277.0200,271.7100,271.8100,880324
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-03,272.2300,281.6900,272.5000,279.5400,1301974
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-04,281.7100,290.3900,282.2100,288.5000,1089863
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-05,284.5100,285.3900,280.2200,282.8200,873208
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-06,284.3200,287.3500,283.7400,287.0000,661457
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-09,286.9900,290.0000,285.6800,288.8900,983668
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-10,290.0200,293.7000,287.1900,292.3300,1254270
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-11,291.8200,293.9200,290.1300,293.8400,1076995
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-12,294.4300,297.2100,291.0100,292.3700,2149618
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-13,289.2900,300.6700,284.6700,300.3500,1856599
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-17,303.2600,306.0400,297.2800,302.0000,1901654
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-18,301.7400,302.0500,296.4400,299.0000,1483564
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-19,298.5900,301.6150,296.0600,298.5000,1081301
+8126151,PSA,Public Storage,Finance Insurance And Real Estate,Real Estate Investment Trusts,2026-02-20,299.2200,305.9800,298.2500,305.0000,1163009
